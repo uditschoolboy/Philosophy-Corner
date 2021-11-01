@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    width: 100%;
+}
+.logo {
+    height: 100%;
+    min-width: 10%;
+}
+.logo img {
+    max-height: 100%;
+}
+.rightpart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rightpart div {
+    margin : 0px 10px;
+}
